@@ -1,0 +1,11 @@
+C:\Users\Mikel\source\repos\ShoppyGenerator by mmodsgtav\bin\Debug\ShoppyGenerator by mmodsgtav.exe.config
+C:\Users\Mikel\source\repos\ShoppyGenerator by mmodsgtav\bin\Debug\ShoppyGenerator by mmodsgtav.exe
+C:\Users\Mikel\source\repos\ShoppyGenerator by mmodsgtav\bin\Debug\ShoppyGenerator by mmodsgtav.pdb
+C:\Users\Mikel\source\repos\ShoppyGenerator by mmodsgtav\obj\Debug\ShoppyGenerator by mmodsgtav.csproj.AssemblyReference.cache
+C:\Users\Mikel\source\repos\ShoppyGenerator by mmodsgtav\obj\Debug\ShoppyGenerator by mmodsgtav.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mikel\source\repos\ShoppyGenerator by mmodsgtav\obj\Debug\ShoppyGenerator_by_mmodsgtav.Form1.resources
+C:\Users\Mikel\source\repos\ShoppyGenerator by mmodsgtav\obj\Debug\ShoppyGenerator_by_mmodsgtav.Properties.Resources.resources
+C:\Users\Mikel\source\repos\ShoppyGenerator by mmodsgtav\obj\Debug\ShoppyGenerator by mmodsgtav.csproj.GenerateResource.cache
+C:\Users\Mikel\source\repos\ShoppyGenerator by mmodsgtav\obj\Debug\ShoppyGenerator by mmodsgtav.csproj.CoreCompileInputs.cache
+C:\Users\Mikel\source\repos\ShoppyGenerator by mmodsgtav\obj\Debug\ShoppyGenerator by mmodsgtav.exe
+C:\Users\Mikel\source\repos\ShoppyGenerator by mmodsgtav\obj\Debug\ShoppyGenerator by mmodsgtav.pdb
