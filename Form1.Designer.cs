@@ -79,7 +79,9 @@
             "PRANGER",
             "POLICEB",
             "SHERIFF2",
-            "FBI"});
+            "FBI",
+            "FBI2",
+            "LGUARD\t"});
             this.listBox1.Location = new System.Drawing.Point(17, 117);
             this.listBox1.Name = "listBox1";
             this.listBox1.Size = new System.Drawing.Size(133, 84);
@@ -147,7 +149,7 @@
             // 
             this.numericUpDown1.Location = new System.Drawing.Point(17, 432);
             this.numericUpDown1.Name = "numericUpDown1";
-            this.numericUpDown1.Size = new System.Drawing.Size(120, 22);
+            this.numericUpDown1.Size = new System.Drawing.Size(203, 22);
             this.numericUpDown1.TabIndex = 9;
             this.numericUpDown1.ValueChanged += new System.EventHandler(this.numericUpDown1_ValueChanged);
             // 
