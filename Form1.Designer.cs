@@ -69,8 +69,9 @@
             this.listBox1.ItemHeight = 16;
             this.listBox1.Items.AddRange(new object[] {
             "POLICE",
-            "POLICE3",
             "POLICE2",
+            "POLICE3",
+            "POLICE4",
             "SHERIFF",
             "AMBULANCE",
             "FIRETRUK",
